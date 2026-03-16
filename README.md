@@ -6,6 +6,10 @@ I'm a Data Scientist and ML Engineer passionate about **data forecasting**, mach
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-active-green.svg)
 ![Data Science](https://img.shields.io/badge/Data%20Science-research-orange.svg)
 
+## 🎓 Education & Experience
+
+I am a **3rd-year university student**  
+currently doing an internship at **Huawei**, gaining hands-on experience with technologies and innovations.
 ## 🛠️ Tech Stack
 - Python, R, SQL  
 - ML: Scikit-learn, XGBoost, TensorFlow, PyTorch  
